@@ -1,0 +1,2 @@
+Plate	Sort Layout	Label Layout	Sample Layout	Facs Data
+500ms	sort_layout.txt	label_layout.txt	sample_layout.txt	facs_data_500ms.txt
