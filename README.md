@@ -2,7 +2,7 @@
 ## Reanalysis of 8227 data from Schoof et al. 2021
 
 ## Preparation
-Install conda environment.yml
+Install conda environment.yml (tested on Linux)
 
 ## Content
 
