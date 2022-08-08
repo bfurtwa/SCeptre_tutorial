@@ -13,6 +13,7 @@ Raw data search
 -	Export of results:
 	- Open in PD, remove “Grouped CV” columns
 	- Export as .txt (MSMS, PSMs, Proteins, Input Files)
+
 Data preparation
 -	Label layout
 -	Sample layout
@@ -20,9 +21,11 @@ Data preparation
 -	File sample mapping
 -	Plate layout mapping
 -	FACS data
+
 FACS data preparation
 -	.fcs files
 -	Flowkit notebook
 -	Copy facs_data to data
+
 SCeptre & Scanpy analysis
 -	See notebook
